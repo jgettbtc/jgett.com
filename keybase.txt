@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jgettbtc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jgett.com
+  * I am jgettbtc (https://keybase.io/jgettbtc) on keybase.
+  * I have a public key ASDKwZHfAxhthE9Yd9YZaLkchQJvKirPCi_SySf5Vnw1tQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cac191df03186d844f5877d61968b91c85026f2a2acf0a2fd2c927f9567c35b50a",
+      "host": "keybase.io",
+      "kid": "0120cac191df03186d844f5877d61968b91c85026f2a2acf0a2fd2c927f9567c35b50a",
+      "uid": "ae42b93293e0faa80b51198f2544b819",
+      "username": "jgettbtc"
+    },
+    "merkle_root": {
+      "ctime": 1610400858,
+      "hash": "22766ab018a2d3a642d2ac1d0713a439b697f6616e6cf37563a4cf9d34783dfdea6a1b7254668f8ef73a4caa0d0d021f129e2a45b13a6d56e0db5b844487aa53",
+      "hash_meta": "d20da456ed53723a569cb9471b374125f1c81f779861a8eb991108db6f36d272",
+      "seqno": 18700301
+    },
+    "service": {
+      "entropy": "pwGHKqiM7K3H6YbvGvUFi5Tj",
+      "hostname": "jgett.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1610401866,
+  "expire_in": 504576000,
+  "prev": "60a21f2274796b4b19b446624c47099218cd763be7ef93279b31381f51a2ad24",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgysGR3wMYbYRPWHfWGWi5HIUCbyoqzwov0skn+VZ8NbUKp3BheWxvYWTESpcCD8QgYKIfInR5a0sZtEZiTEcJkhjNdjvn75MnmzE4H1GirSTEIIMBw3AdNb+kX/fWY7Dx8rizjAZuIx7jDS5dcTYat/dZAgHCo3NpZ8RAm7WPaOOeTlAuiR/sj9+J/Dv4JeUZwuwoIElaVk6qqv6Te9fkW9DYRH7EWMLzmp0cJl98TICEi9vNii1p9sL3B6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPtK1QlqIVluldsMYcJyxjiDYU/K7qkRTGY2W/Yp3fc+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jgettbtc
+
+==================================================================
