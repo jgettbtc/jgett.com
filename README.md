@@ -1,2 +1,2 @@
 # jgett.com
-Personal website
+Personal website: https://jgett.com
